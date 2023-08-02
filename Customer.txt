@@ -1,0 +1,5 @@
+1<>71873508<>Joseph Prince<>Savings Account<>400.0<>000912-10-1210<>Male<>Jalan Cahaya 2, Kuala Lumpur<>Chinese<>01298102930
+2<>36065625<>Tom Cruise<>Current Account<>1100.0<>000812-10-3891<>Male<>Jalan Tom, Selangor<>Indian<>01982930123
+3<>46293475<>Eunice Ho Yung Chi<>Savings Account<>450.0<>000918-10-1231<>Female<>Jalan Rambutan 9, Kuala Lumpur<>Chinese<>0123456789
+4<>61371884<>Fatimah Binti Ali<>Current Account<>550.0<>000912-10-1231<>Female<>Jalan PJs 3/5, Petaling Jaya<>Malay<>01782923911
+
